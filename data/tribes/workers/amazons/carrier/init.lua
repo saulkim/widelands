@@ -5,7 +5,7 @@ dirname = path.dirname (__file__)
 wl.Descriptions():new_carrier_type {
    name = "amazons_carrier",
    -- TRANSLATORS: This is a worker name used in lists of workers
-   descname = pgettext ("amazons_worker", "Carrier"),
+   descname = pgettext ("amazons_worker", "CarrierTEST2"),
    icon = dirname .. "menu.png",
    vision_range = 2,
 
